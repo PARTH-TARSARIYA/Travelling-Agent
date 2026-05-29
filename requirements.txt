@@ -1,0 +1,13 @@
+langchain
+langchain-groq
+streamlit
+langchain-community
+sentence-transformers
+langchain-huggingface
+faiss-cpu
+python-dotenv
+openmeteo-requests
+requests-cache
+pandas
+langchain-text-splitters
+retry-requests
