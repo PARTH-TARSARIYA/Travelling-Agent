@@ -28,7 +28,7 @@ The user provides travel-related inputs such as destination preferences, budget,
 ## Installation
 
 ```bash
-git clone <your-repo-link>
+git clone https://github.com/PARTH-TARSARIYA/Travelling-Agent
 cd <project-folder>
 pip install -r requirements.txt
 ```
